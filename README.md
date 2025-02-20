@@ -20,11 +20,12 @@ I am a **Software Engineer** with experience in **Full Stack development, cloud 
 | Repository | Stacks |Description |
 |------------|------------|------------|
 | [Lets Trade](https://github.com/ssjawalkar/Lets_Trade) | MongoDB, Express.js Node.js |Built an MVC-based web application with **MongoDB** for trading items, using Mongoose ODM for data modeling and **Express.js** for RESTful API interactions. Enhanced security with role-based authorization, session tracking, password encryption, server-side validations, and rate limiting. |
-| [Audio To Text](https://github.com/ssjawalkar/Audio-To-Text) | Java, Spring boot | Audio Transcribe is a Spring Boot application that transcribes audio files into text using OpenAI's Whisper model. |
-| [Todo App](https://github.com/ssjawalkar/ToDoApp-SpringBoot) | Java, Spring boot | TodoApp is a simple task management application built using Spring Boot, Spring Data JPA, and Thymeleaf. It allows users to add, delete, and toggle the completion status of tasks. |
+| [Audio To Text](https://github.com/ssjawalkar/Audio-To-Text) | Java, Spring boot | Audio Transcribe is a Spring Boot application that transcribes audio files into text using **OpenAI's Whisper model**. |
+| [Cab booking location](https://github.com/ssjawalkar/Cab-location-Kafka) | Java, Spring boot, Kafka | Kafka is used as the messaging system to facilitate real-time communication between the driver and user services for driver location. |
+| [Todo App](https://github.com/ssjawalkar/ToDoApp-SpringBoot) | Java, Spring boot | TodoApp is a simple task management application built using **Spring Boot, Spring Data JPA, and Thymeleaf**. It allows users to add, delete, and toggle the completion status of tasks. |
 | [Social App](https://github.com/ssjawalkar/Django-Project/) | Python, Django | Developed a full-stack Django web application to manage and showcase projects with features like user authentication, project CRUD operations, and dynamic search functionality. |
-| [Computer Vision](https://github.com/ssjawalkar/Azure-ComputerVision-API) | Python, Azure |In this project I am designing image to text Applications using Computer Vision API. |
-| [Dengue Prediction](https://github.com/wedwar23/group-16) | Python, Pandas, Numpy | The goal of this project is to see if temperature, humidity, precipitation, and vegetation index help predict the total Dengue cases for each (city, year, and week of year) in the test set.  
+| [Computer Vision](https://github.com/ssjawalkar/Azure-ComputerVision-API) | Python, Azure |In this project, I am designing image-to-text Applications using Computer Vision API. |
+| [Dengue Prediction](https://github.com/wedwar23/group-16) | Python, Pandas, Numpy | The goal of this project is to see if temperature, humidity, precipitation, and vegetation index help predict the total Dengue cases for each (city, year, and week of year). |  
 
 ---
 
